@@ -1,0 +1,19 @@
+{
+  "name": "domain-records",
+  "version": "1.0.0",
+  "description": "Whois and DNS query wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Sorensen",
+  "license": "ISC",
+  "bin": {
+    "querydomain": "./index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "whois": "^2.10.0",
+    "yargs": "^13.2.4"
+  }
+}
