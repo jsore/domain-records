@@ -7,7 +7,7 @@
  *
  * 1. clone or DL and unzip the project, move into it
  *
- *   $ git clone https://github.com/jsore/ THIS NEEDS TO BE UPDATED.git
+ *   $ git clone https://github.com/jsore/domain-records.git
  *   $ cd domain-records
  *
  * 2. init dependencies
